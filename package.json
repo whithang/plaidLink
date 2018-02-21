@@ -1,0 +1,26 @@
+{
+  "name": "plaidlink",
+  "version": "1.0.0",
+  "description": "test app to connect to plaid link api",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whithang/plaidLink.git"
+  },
+  "author": "Kelly Whiting",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whithang/plaidLink/issues"
+  },
+  "homepage": "https://github.com/whithang/plaidLink#readme",
+  "devDependencies": {
+    "nodemon": "^1.15.1"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
